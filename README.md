@@ -1,1 +1,1 @@
-# BlazorAI_MCP
+# Demo Blazor Model Context Protocol
