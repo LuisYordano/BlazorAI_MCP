@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D1407713-311E-4962-B79B-18B55C226C54}") = "BlazorAI_MCP.AppHost", "BlazorAI_MCP.AppHost\BlazorAI_MCP.AppHost.csproj", "{0E482BC1-2174-4F1B-B9B0-4BB95BA88B88}"
+EndProject
+Project("{D1407713-311E-4962-B79B-18B55C226C54}") = "BlazorAI_MCP.ServiceDefaults", "BlazorAI_MCP.ServiceDefaults\BlazorAI_MCP.ServiceDefaults.csproj", "{32E1A409-8DBF-4618-9EA5-35F0DB874D3D}"
+EndProject
+Project("{D1407713-311E-4962-B79B-18B55C226C54}") = "BlazorAI_MCP.Web", "BlazorAI_MCP.Web\BlazorAI_MCP.Web.csproj", "{44DAEDF6-4728-40AC-B1C0-A65B495895DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E482BC1-2174-4F1B-B9B0-4BB95BA88B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E482BC1-2174-4F1B-B9B0-4BB95BA88B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E482BC1-2174-4F1B-B9B0-4BB95BA88B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E482BC1-2174-4F1B-B9B0-4BB95BA88B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E1A409-8DBF-4618-9EA5-35F0DB874D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E1A409-8DBF-4618-9EA5-35F0DB874D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E1A409-8DBF-4618-9EA5-35F0DB874D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E1A409-8DBF-4618-9EA5-35F0DB874D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44DAEDF6-4728-40AC-B1C0-A65B495895DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DAEDF6-4728-40AC-B1C0-A65B495895DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DAEDF6-4728-40AC-B1C0-A65B495895DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DAEDF6-4728-40AC-B1C0-A65B495895DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
